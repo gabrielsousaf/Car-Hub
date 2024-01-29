@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center" width:100%>
 
-## Getting Started
+![2024-01-02 11-12-06](https://github.com/gabrielsousaf/Todo/assets/121953504/b6ac0c65-c7fc-4473-ac1e-0e7c6de0a459)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# 📱 Car Hub.
+> * Esse repositório tem como objetivo principal apresentar meus estudos e aplicar em projetos pessoais em React.  
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## ⚙ Descrição do projeto.
+> * Tarefas são armazenadas no LocalStorage, sendo assim não são perdidas ao recarregar a pagina.<br>
+> * Checkbox para marcar como concluida a tarefa.<br>
+> * Botão para excluir e modificar a tarefa.<br>
+> * Contador de tarefas adicionadas e concluidas.
+ 
 
-## Learn More
+## ☕ Tecnologias Usadas
 
-To learn more about Next.js, take a look at the following resources:
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![NEXT](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+https://todo-gabrielsousaf.vercel.app/
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## 📎 Como Executar o projeto.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+No diretório do projeto, você pode executar:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## `npm i`:
+> Instalar as dependências listadas no arquivo package.json do projeto.
+
+## `npm run dev`: 
+> Executa o aplicativo em modo de desenvolvimento.
+> Abra http://localhost:3000 para visualizá-lo no navegador.
+> A página será recarregada quando você fizer alterações.
+> Você também pode ver quaisquer erros de lint no console.
+
+### `npm test`
+> Inicia o executor de teste no modo de observação interativo.
+> Consulte a seção sobre executando testes para obter mais informações.
+
+### `npm run build`
+> Compila o aplicativo para produção na pasta build.
+> Ele agrupa corretamente o React no modo de produção e otimiza a construção para obter o melhor desempenho.
+   
+## 📝 Licença
+
+> Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
+
+

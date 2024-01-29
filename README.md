@@ -8,14 +8,16 @@
  
 
 # 📱 Car Hub.
-> * Esse repositório tem como objetivo principal apresentar meus estudos e aplicar em projetos pessoais em React.  
+> * Esse repositório tem como objetivo principal apresentar meus estudos e aplicar em projetos pessoais em React.
+> * Website aluguel de carros.
 
 ## ⚙ Descrição do projeto.
-> * Tarefas são armazenadas no LocalStorage, sendo assim não são perdidas ao recarregar a pagina.<br>
-> * Checkbox para marcar como concluida a tarefa.<br>
-> * Botão para excluir e modificar a tarefa.<br>
-> * Contador de tarefas adicionadas e concluidas.
- 
+> * Uso da API Cars by API-Ninjas para usar os carros no website.<br>
+> * Sistema de busca filtrando marca e modelo do veiculo. <br>
+> * Uso de dois filtros, por ano de fabricação e tipo de combustivel.<br>
+> * Biblioteca headlessui usada para criar popovers e menus suspensos.<br>
+> * Após selecionar um carro, é possivel ver as suas informações, como ano, cilindradas, modelo entre outros.<br>
+> * Responsividade mobile.
 
 ## ☕ Tecnologias Usadas
 

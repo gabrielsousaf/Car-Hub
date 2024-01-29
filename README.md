@@ -24,7 +24,7 @@
 [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![NEXT](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
 
-https://todo-gabrielsousaf.vercel.app/
+https://car-hub-gabrielsousaf.vercel.app/
 
 
 ## 📎 Como Executar o projeto.
